@@ -1,7 +1,7 @@
 # 👋 Ciao, sono Claudio!  
 ### 🚀 Appassionato di tecnologia, sviluppo e innovazione!
 
-Mi piace sviluppare progetti innovativi nella programmazione, con interesse per l'IA e il data engineering. Cerco sempre nuove opportunità per imparare e approfondire queste tecnologie nel mondo digitale. 😊  
+Costante sviluppo di progetti innovativi nella programmazione, con interesse per l'IA e il data engineering.
 
 ---
 
