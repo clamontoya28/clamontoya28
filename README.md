@@ -85,7 +85,6 @@ Mi piace sviluppare progetti innovativi nella programmazione, con interesse per 
 
 ---
 
-## 💡Ricorda
 > "You could still be who you wish you is." – Graduation (Ye)
 
 ---
