@@ -5,20 +5,54 @@ Mi piace sviluppare progetti innovativi nella programmazione, con interesse per 
 
 ---
 
-## 🌟 Tecnologie e Strumenti:
+## 🚀 Tecnologie e Strumenti:
 
+### 💻 Linguaggi di Programmazione:
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+### 🗄️ Database & Big Data:
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white" />
+</p>
+
+### ⚡ Data Engineering & AI:
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apache-spark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+</p>
+
+### ☁️ Cloud & Storage:
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" />
+</p>
+
+### 🔄 Streaming & Pipelines:
+<p align="left">
+  <img src="https://img.shields.io/badge/Kafka%20Streams-231F20?style=flat&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Kinesis-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+</p>
+
+### 📊 Data Visualization:
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
+</p>
+
+### 🚀 DevOps & Orchestrazione:
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 </p>
 
 ---
@@ -52,9 +86,8 @@ Mi piace sviluppare progetti innovativi nella programmazione, con interesse per 
 ---
 
 ## 💡 Citazione preferita:
-> "La logica ti porterà da A a B. L'immaginazione ti porterà ovunque." – Albert Einstein
+> "You could be who you wish you is." – Graduation (Ye)
 
 ---
 
-### 🎉 Grazie per aver visitato il mio profilo!  
-Se ti va, lascia una ⭐ nei miei progetti! 😃🚀
+### 🎉 Grazie per aver visitato il mio profilo! 
