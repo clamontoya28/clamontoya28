@@ -45,8 +45,8 @@ Mi piace sviluppare progetti innovativi nella programmazione, con interesse per 
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUOUSERNAME&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUOUSERNAME&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=clamontoya28&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clamontoya28&layout=compact&theme=radical" height="180px"/>
 </p>
 
 ---
