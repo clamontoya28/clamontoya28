@@ -5,74 +5,60 @@ Costante sviluppo di progetti innovativi nella programmazione, con interesse per
 
 ---
 
-## 🚀 Tecnologie e Strumenti:
+## 🚀 Tecnologie e Strumenti del Corso
 
 ### 💻 Linguaggi di Programmazione:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-</p>
-
-### 🗄️ Database & Big Data:
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white" />
-</p>
-
-### ⚡ Data Engineering & AI:
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apache-spark&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-</p>
-
-### ☁️ Cloud & Storage:
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" />
-</p>
-
-### 🔄 Streaming & Pipelines:
-<p align="left">
-  <img src="https://img.shields.io/badge/Kafka%20Streams-231F20?style=flat&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Kinesis-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-</p>
-
-### 📊 Data Visualization:
-<p align="left">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
-</p>
-
-### 🚀 DevOps & Orchestrazione:
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0064a5?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
 
 ---
 
-## 📱 Dove trovarmi:
+### 📊 Data Analysis & Librerie Python:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-43B02A?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="left">
-  <a href="https://twitter.com/21claaaa">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_claudiomontoya_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/clamontoya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/clamontoya28">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+---
+
+### 🛢️ Database & Data Modeling:
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### ⚙️ Software Engineering & Dev:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🌐 Web & API:
+![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📈 Data Visualization:
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+### 🔁 Data Engineering:
+![ETL](https://img.shields.io/badge/ETL%20Pipeline-1E90FF?style=for-the-badge&logo=data&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-FFA500?style=for-the-badge&logo=databricks&logoColor=white)
+![Lakehouse](https://img.shields.io/badge/Lakehouse-20B2AA?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+### 👨‍💻 Metodologie & Soft Skills:
+![Agile](https://img.shields.io/badge/Agile%20Methodology-02569B?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
+![Soft Skills](https://img.shields.io/badge/Teamwork%20&%20Communication-9C27B0?style=for-the-badge&logo=teams&logoColor=white)
 
 ---
 
