@@ -7,10 +7,9 @@ Costante sviluppo di progetti innovativi nella programmazione, con interesse per
 ## Connect with me
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/tuo_canale)
-[![Twitch](https://img.shields.io/badge/Twitch-Offline-6441a5?logo=twitch)](https://twitch.tv/tuo_canale)
-[![Discord](https://img.shields.io/badge/Discord-3.5k%20online-5865F2?logo=discord)](https://discord.gg/tuo_invito)
-[![X](https://img.shields.io/badge/X-@tuo_username-black?logo=x)](https://x.com/21claaa)
-[![GitHub Stars](https://img.shields.io/github/stars/clamontoya28/tuo_repo?style=social)](https://github.com/clamontoya/tuo_repo/stargazers)
+[![Discord](https://img.shields.io/badge/Discord-3.5k%20online-5865F2?logo=discord)](https://discord.gg/aVDahGaNWu)
+[![X](https://img.shields.io/badge/X-@21claaaa-black?logo=x)](https://x.com/21claaaa)
+[![GitHub Stars](https://img.shields.io/github/stars/clamontoya28/tuo_repo?style=social)](https://github.com/clamontoya28/tuo_repo/stargazers)
 ---
 ## 🚀 Tecnologie e Strumenti del Corso
 
