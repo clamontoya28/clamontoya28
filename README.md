@@ -6,6 +6,8 @@ Costante sviluppo di progetti innovativi nella programmazione, con interesse per
 ---
 ## Connect with me
 
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram)](https://instagram.com/_claudiomontoya_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/claudio-montoya-423188274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/tuo_canale)
 [![Discord](https://img.shields.io/badge/Discord-3.5k%20online-5865F2?logo=discord)](https://discord.gg/aVDahGaNWu)
 [![X](https://img.shields.io/badge/X-@21claaaa-black?logo=x)](https://x.com/21claaaa)
