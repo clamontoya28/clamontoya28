@@ -36,6 +36,8 @@ Costante sviluppo di progetti innovativi nella programmazione, con interesse per
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-316192?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
 
 ---
 
@@ -52,6 +54,7 @@ Costante sviluppo di progetti innovativi nella programmazione, con interesse per
 ### 🌐 Web & API:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask%20-6DB33F?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
