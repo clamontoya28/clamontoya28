@@ -16,13 +16,11 @@ Costante sviluppo di progetti innovativi nella programmazione, con interesse per
 
 ### 💻 Linguaggi di Programmazione:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
 ### 📊 Data Analysis & Librerie Python:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
@@ -33,14 +31,8 @@ Costante sviluppo di progetti innovativi nella programmazione, con interesse per
 
 ### 🛢️ Database & Data Modeling:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-316192?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-
----
-
 
 ---
 
@@ -54,14 +46,11 @@ Costante sviluppo di progetti innovativi nella programmazione, con interesse per
 ### 🌐 Web & API:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask%20-6DB33F?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
 ### 📈 Data Visualization:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -73,7 +62,6 @@ Costante sviluppo di progetti innovativi nella programmazione, con interesse per
 ---
 
 ### ☁️ Cloud Platforms:
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
